@@ -88,7 +88,7 @@ Aggregation in Cypher is different from aggregation in SQL. In Cypher, you need 
 The grouping is implicitly done, based upon the fields in the `RETURN` clause.
 
 For example, in the Cypher statement shown above, all rows returned with the same values for _a.name_ and _d.name_ are counted and only returned once.
-That is, there are exactly four movies that _Lana Washowski_ directed with _Hugo Weaving_ acting in.
+That is, there are exactly four movies that _Lana Wachowski_ directed with _Hugo Weaving_ acting in.
 --
 
 == Collecting results
